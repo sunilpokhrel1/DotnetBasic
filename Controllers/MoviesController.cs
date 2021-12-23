@@ -17,7 +17,7 @@ namespace Vidly.Controllers
 
          
             return View(movie);
-            return Content("Hello World");
+            //return Content("Hello World");
 
         }
     }
